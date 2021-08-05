@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "List of Publications"
+title: "Book Contributions"
 permalink: /publications/
 author_profile: true
 ---
-
-Book Contributions
-====
 
 1. Alireza Mahzoon, Daniel Große, and Rolf Drechsler. GenMul: Generating architecturally complex multipliers to challenge formal verification tools. In *Recent Findings in Boolean Techniques*, pages 177-191. Springer, 2021.
 
@@ -18,6 +15,11 @@ Journals
 1. Alireza Mahzoon, Bijan Alizadeh. Systematic Design Space Exploration of Floating-Point Expressions on FPGA. *IEEE Transactions on Circuits and Systems II: Express Briefs*, 64 (3), 274-278, 2016.
 
 1. Alireza Mahzoon, Bijan Alizadeh. OptiFEX: A framework for exploring area-efficient floating point expressions on FPGAs with optimized exponent/mantissa widths. *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*, 25 (1), 198-209, 2016.
+
+Conferences
+====
+
+
 
 
 
