@@ -14,7 +14,16 @@ Alireza Mahzoon is a Ph.D. candidate in the institute of Computer Science at the
 
 News
 ====
+**July 22, 2021:** Our work on **Polynomial Formal Verification of Prefix Adders** will be presented at the 30th *International Workshop on Logic & Synthesis* (IWLS 2021)
+ 
+**July 15, 2021:** Our paper **Polynomial Formal Verification of Prefix Adders** has been nominated for the Best Student Paper award at the 30th *International Workshop on Logic & Synthesis* (IWLS 2021)
 
-- Item1
+**June 23, 2021:** Our paper **Polynomial Formal Verification of Prefix Adders** has been accepted at the 30th *International Workshop on Logic & Synthesis* (IWLS 2021)
 
-- Item 2
+**June 15, 2021:** our work on  [Automated Debugging-Aware Visualization Technique for SystemC HLS Designs]() has been accepted at the *Euromicro Conference on Digital System Design* (DSD 2021)
+
+**May 24, 2021:** our work on [Late Breaking Results: Polynomial Formal Verification of Fast Adders]() has been accepted at the 58th *Design Automation Conference* (DAC 2021)
+
+**May 4, 2021:** Our paper [RevSCA-2.0: SCA-based Formal Verification of Non-trivial Multipliers using Reverse Engineering and Local Vanishing Removal](https://ieeexplore.ieee.org/document/9440537/authors#authors) has been accepted for publication in the journal IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+
+
