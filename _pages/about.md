@@ -14,6 +14,8 @@ Alireza Mahzoon is a Ph.D. candidate in the institute of Computer Science at the
 
 News
 ====
+**August 6, 2021:** Our paper **Polynomial Formal Verification of Prefix Adders** has been accepted at the *Asian Test Symposium* (ATS 2021)
+
 **July 22, 2021:** Our work on **Polynomial Formal Verification of Prefix Adders** will be presented at the 30th *International Workshop on Logic & Synthesis* (IWLS 2021)
  
 **July 15, 2021:** Our paper **Polynomial Formal Verification of Prefix Adders** has been nominated for the Best Student Paper award at the 30th *International Workshop on Logic & Synthesis* (IWLS 2021)
