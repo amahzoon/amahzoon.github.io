@@ -9,7 +9,7 @@ author_profile: true
 - Symbolic Computer Algebra
 - Arithmetic Circuits
 - Debugging
-- Complexity of Verification techniques
+- Complexity of Verification Techniques
 - High-Level Synthesis
 
 

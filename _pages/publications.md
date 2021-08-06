@@ -42,7 +42,7 @@ Conferences
 Workshops
 ====
 
-1. Alireza Mahzoon and Rolf Drechsler. Polynomial Formal Verification of Prefix Adders. In *International Workshop on Logic & Synthesis (IWLS)*, 2021.
+1. Alireza Mahzoon and Rolf Drechsler. Polynomial Formal Verification of Prefix Adders. In *International Workshop on Logic & Synthesis (IWLS)*, 2021. **(Best Student Paper Candidate)**
 
 1. Alireza Mahzoon and Rolf Drechsler. Polynomial Formal Verification of Area-efficient and Fast Adders. In *2021 Reed-Muller Workshop (RM2021)*, 2021.
 
